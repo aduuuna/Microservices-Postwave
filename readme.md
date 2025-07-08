@@ -1,6 +1,6 @@
-**Just a quick hello from me! (:**
+![Welcome!](./assests/me.gif)
 
-[Welcome!](./assests/me.gif)
+# Microservices Projects
 
 This repository contains two main projects:
 
