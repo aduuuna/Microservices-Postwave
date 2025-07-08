@@ -1,4 +1,6 @@
-![Welcome!](./assests/me.gif)
+<p align="center">
+  <img src="./assets/myself.gif" alt="Welcome GIF" width="300"/>
+</p>
 
 # Microservices Projects
 
