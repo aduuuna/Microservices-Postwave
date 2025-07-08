@@ -1,11 +1,15 @@
-This directory contains a little app that gives a taste about how microservices features works
+This directory contains a simple Blog application that demonstrates key features of a microservices architecture.
 
-### Services
+## Services
 
-1. Post
-   a) Create a post
-   b) List all posts
+**1. Post Service**
 
-2. Comments
-   a) Create a comment
-   b) List all comments
+Create a new post
+
+Retrieve all posts
+
+**2. Comment Service**
+
+Add a new comment
+
+Retrieve all comments
