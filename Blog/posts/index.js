@@ -22,7 +22,7 @@ app.post('/posts', async (req, res) => {
     id, title
   };
 
-  // Making a post request to the even handler server
+  // Making a post request to the event handler server
   await axios.post('http://localhost:4005/events', {
     type: 'PostCreated',
     data: {
